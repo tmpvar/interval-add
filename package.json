@@ -1,0 +1,27 @@
+{
+  "name": "interval-add",
+  "version": "0.0.0",
+  "description": "add two intervals",
+  "main": "interval-add.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-add.git"
+  },
+  "keywords": [
+    "interval",
+    "add",
+    "sum"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-add/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-add",
+  "dependencies": {
+    "tape": "^3.5.0"
+  }
+}
