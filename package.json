@@ -1,6 +1,6 @@
 {
   "name": "interval-add",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add two intervals",
   "main": "interval-add.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/tmpvar/interval-add/issues"
   },
   "homepage": "https://github.com/tmpvar/interval-add",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^3.5.0"
   }
 }
